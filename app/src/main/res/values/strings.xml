@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Practice</string>
+    <string name="drawable_1">Базовая анимация через drawable</string>
+    <string name="code_animation_drawable">базовая анимация через код</string>
+    <string name="xml_animation">базовая анимация через xml разметку</string>
+    <string name="next">Next</string>
+</resources>
